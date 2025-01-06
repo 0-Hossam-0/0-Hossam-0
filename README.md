@@ -83,7 +83,7 @@
   <h3>
     Most Frameworks I am using:<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,tailwind,react,mysql,mongodb,bootstrap&perline=14" />
   </a>
   </h3>
 </div>
@@ -92,7 +92,7 @@
   <h3>
     Most Porgrams & Tools I am using:<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,figma,npm,github,gradle,stackoverflow,devto,github,postman,discord,linux,ubuntu,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,npm,github,stackoverflow,github,postman,discord,linux,windows&perline=14" />
   </a>
   </h3>
 </div>
@@ -101,7 +101,7 @@
   <h3>
     language I am using:<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,js,ts,java,go,cs,cpp,sqlite,mysql,html,css&perline=14" />
+    <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,html,css,sass,lua,python&perline=14" />
   </a>
   </h3>
 </div>
@@ -110,10 +110,16 @@
 <div>
   <h3>
     Most IDE I am using:<br><br>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<div align="left">
+ <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-C994EE?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black&perline=50" height="27px"/>
+</div>
+
+
+###
   </h3>
 </div>
 
