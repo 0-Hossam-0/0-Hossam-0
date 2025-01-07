@@ -26,7 +26,7 @@
 
 
 
-<div>
+<div align="center">
   <h3>
     Most Frameworks I am using:<br><br>
   <a>
@@ -35,16 +35,15 @@
   </h3>
 </div>
 
-<div>
-  <h3>
-    Most Porgrams & Tools I am using:<br><br>
-  <a>
-    <img src="https://skillicons.dev/icons?i=figma,npm,github,stackoverflow,github,postman,discord,linux,windows&perline=14" />
-  </a>
+<div align="center">
+		
+  <h3 >
+    Most Porgrams & Tools I am using: <br><br>
   </h3>
+    <img src="https://skillicons.dev/icons?i=figma,npm,github,stackoverflow,github,postman,discord,linux,windows&perline=14" />
 </div>
 
-<div>
+<div align="center">
   <h3>
     language I am using:<br><br>
   <a>
@@ -54,10 +53,10 @@
 </div>
 
 
-<div>
+<div align="center">
   <h3>
     Most IDE I am using:<br><br>
-<div align="left">
+<div >
  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-C994EE?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
