@@ -56,10 +56,9 @@
 </div>
 
 <div align="center">
-  <h3 vertical-align="center">
-<img src="https://github.com/user-attachments/assets/8908c512-ca36-404e-9c61-40351ed6647f" width="30" height="30"/>
-     Most IDE I am using 
-<img src="https://github.com/user-attachments/assets/8908c512-ca36-404e-9c61-40351ed6647f" width="30" height="30"/>
+  <h3>
+
+✏️ Most IDE I am using ✏️ 
 	  <br><br>
 <div >
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
