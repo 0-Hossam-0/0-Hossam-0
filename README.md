@@ -2,8 +2,6 @@
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="350" width="450">
-<!--    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh1a25vaGV4bWI1ZjA1ZXA1YnpkZDlxaDc1eWhidHR3eWc5ZmptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" height="200"> -->
-<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDAwNW8xeHZ6Z2tlOHV2eHJwOHlyMGQzMmEzdmNlcnF6dHRqdDRkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtawoyXRM2CxvdzdkP/giphy.webp" height="200"> -->
 	
 </div>
 
@@ -29,36 +27,41 @@
 
 <div align="center">
   <h3>
-    Most Frameworks I am using:<br><br>
+   🖼️ Most Frameworks I am using 🖼️<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,tailwind,react,mysql,mongodb,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,tailwind,react,bootstrap&perline=14" />
   </a>
   </h3>
 </div>
 
 <div align="center">
-		
   <h3 >
-    Most Porgrams & Tools I am using: <br><br>
+    🛠️ Most Porgrams & Tools I am using 🛠️<br><br>
   </h3>
     <img src="https://skillicons.dev/icons?i=figma,npm,github,stackoverflow,github,postman,discord,linux,windows&perline=14" />
 </div>
 
 <div align="center">
   <h3>
-    language I am using:<br><br>
+   ⌨️ Languages that I have used ⌨️<br><br>
   <a>
     <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,html,css,sass,lua,python&perline=14" />
   </a>
   </h3>
 </div>
-
+<div align="center">
+	<h3>🛢️ Databases that I used 🛢️</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=14" />
+	
+</div>
 
 <div align="center">
-  <h3>
-    Most IDE I am using:<br><br>
+  <h3 vertical-align="center">
+<img src="https://github.com/user-attachments/assets/8908c512-ca36-404e-9c61-40351ed6647f" width="30" height="30"/>
+     Most IDE I am using 
+<img src="https://github.com/user-attachments/assets/8908c512-ca36-404e-9c61-40351ed6647f" width="30" height="30"/>
+	  <br><br>
 <div >
- <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-C994EE?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
