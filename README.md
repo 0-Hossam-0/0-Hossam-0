@@ -29,7 +29,7 @@
   <h3>
    🖼️ Most Frameworks I am using 🖼️<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,tailwind,react,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,tailwind,react,bootstrap,flutter&perline=14" />
   </a>
   </h3>
 </div>
@@ -45,7 +45,7 @@
   <h3>
    ⌨️ Languages that I have used ⌨️<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,html,css,sass,lua,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,html,css,sass,lua,python,dart&perline=14" />
   </a>
   </h3>
 </div>
