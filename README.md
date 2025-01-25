@@ -63,8 +63,9 @@
 <div >
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-C994EE?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
- <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black&perline=50" height="27px"/>
+<img src="https://img.shields.io/badge/PyCharm-3d444d.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Notepad++-fff0000.svg?&logo=notepad%2b%2b&logoColor=black&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Android_Studio-2c63b7.svg?&logo=android&studio&logoColor=black&style=for-the-badge"/>
 </div>
 
 
