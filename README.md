@@ -29,14 +29,14 @@
   <h3>
    🖼️ Most Frameworks I am using 🖼️<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,tailwind,react,bootstrap,flutter&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,firebase,tailwind,react,bootstrap,flutter&perline=14" />
   </a>
   </h3>
 </div>
 
 <div align="center">
   <h3 >
-    🛠️ Most Porgrams & Tools I am using 🛠️<br><br>
+    🛠️ Most Programs & Tools I am using 🛠️<br><br>
   </h3>
     <img src="https://skillicons.dev/icons?i=figma,npm,stackoverflow,github,postman,discord,linux,windows&perline=14" />
 </div>
