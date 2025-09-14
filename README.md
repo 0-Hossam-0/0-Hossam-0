@@ -7,8 +7,11 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=1&pause=100&width=450&lines=W__ _________;_e_ _________;__b _________;___ D________;___ _e_______;___ __v______;___ ___e_____;___ ____l____;___ _____o___;___ ______p__;___ _______e_;___ ________r;W__ ________r;_e_ ________r;__b ________r;___ D_______r;___ _e______r;___ __v_____r;___ ___e____r;___ ____l___r;___ _____o__r;___ ______p_r;___ _______er;W__ _______er;_e_ _______er;__b _______er;___ D______er;___ _e_____er;___ __v____er;___ ___e___er;___ ____l__er;___ _____o_er;___ ______per;W__ ______per;_e_ ______per;__b ______per;___ D_____per;___ _e____per;___ __v___per;___ ___e__per;___ ____l_per;___ _____oper;W__ _____oper;_e_ _____oper;__b _____oper;___ D____oper;___ _e___oper;___ __v__oper;___ ___e_oper;W__ ____loper;_e_ ____loper;__b ____loper;___ D___loper;___ _e__loper;___ __v_loper;___ ___eloper;W__ ___eloper;_e_ ___eloper;__b ___eloper;___ D__eloper;___ _e_eloper;___ __veloper;W__ __veloper;_e_ __veloper;__b __veloper;___ D_veloper;___ _eveloper;___ _eveloper;W__ _eveloper;_e_ _eveloper;__b _eveloper;___ Developer;W__ Developer;_e_ Developer;__b Developer;__b Developer;W_b Developer;_eb Developer;_eb Developer;Web Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer;Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Fullstack+Engineer;MERN+Stack+Developer" alt="Typing SVG" />
+  </a>
 </div>
+
 
 <div style="height:10px;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -27,9 +30,9 @@
 
 <div align="center">
   <h3>
-   🖼️ Most Frameworks I am using 🖼️<br><br>
+   🖼️ Most Frameworks & Libraries I am using 🖼️<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,firebase,tailwind,react,bootstrap,flutter&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,laravel,vite,redux,firebase,tailwind,react,bootstrap,flutter,nest,angular&perline=14" />
   </a>
   </h3>
 </div>
@@ -38,14 +41,14 @@
   <h3 >
     🛠️ Most Programs & Tools I am using 🛠️<br><br>
   </h3>
-    <img src="https://skillicons.dev/icons?i=figma,npm,stackoverflow,github,postman,discord,linux,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,npm,stackoverflow,github,postman,discord,ubuntu,windows&perline=14" />
 </div>
 
 <div align="center">
   <h3>
    ⌨️ Languages that I have used ⌨️<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,html,css,sass,lua,python,dart&perline=14" />
+    <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,html,css,sass,lua,python,dart,java,kotlin&perline=14" />
   </a>
   </h3>
 </div>
@@ -67,6 +70,7 @@
  <img src="https://img.shields.io/badge/Notepad++-fff0000.svg?&logo=notepad%2b%2b&logoColor=black&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/Android_Studio-2c63b7.svg?&logo=android&studio&logoColor=black&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=black&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-ff9900?logo=intellijidea&logoColor=white&style=for-the-badge"/>
 </div>
 
 
